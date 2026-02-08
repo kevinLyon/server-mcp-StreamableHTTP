@@ -148,3 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Start building your MCP tools today!** 🚀
+![image example](https://raw.githubusercontent.com/kevinLyon/server-mcp-StreamableHTTP/refs/heads/main/img/example.png)
